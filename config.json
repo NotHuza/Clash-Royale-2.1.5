@@ -1,0 +1,42 @@
+{
+    "server": {
+        "port": 9339,
+        "isLocal": false,
+        "localIPs": [
+            "192.168.43.154"
+        ],
+        "blackListedIPs": [
+            "192.168.1.7"
+        ],
+        "useIPBlackList": false,
+        "maintenance": false,
+        "maintenanceTime": 2000,
+        "customMessage": "hi",
+        "gameAssetsUrl": "http://192.168.43.154:8080/Patchs/",
+        "eventAssetsUrl": "https://event-assets.clashroyale.com",
+        "contentUrl": "http://192.168.43.154:8080/Patchs/",
+        "updateUrl": "update",
+        "redirectUrl": "idk.com",
+        "serverID": 0,
+        "serverType": "prod",
+        "clientMajorVersion": 3,
+        "clientMinorVersion": 830,
+        "clientBuild": 15
+    },
+    "player": {
+        "startingName": "Huza Modz",
+        "startWithAllZero": false,
+        "startingTrophies": 5200,
+        "startingLevel": 13,
+        "startingXP": 100,
+        "startingResources": {
+            "gold": 1000000,
+            "diamonds": 1000000
+        }
+    },
+    "database": {
+        "name": "royaleserver",
+        "host": "localhost",
+        "password": null
+    }
+}
