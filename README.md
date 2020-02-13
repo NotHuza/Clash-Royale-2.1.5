@@ -1,1 +1,1 @@
-# Clash-Royale-2.1.5
+# Clash-Royale-2.1.8
